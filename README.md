@@ -89,7 +89,7 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PisiniNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PisiniNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
