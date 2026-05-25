@@ -75,35 +75,6 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 </p>
 
 ---
-
-<!-- SECTION E: GITHUB STATS -->
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=PisiniNikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisiniNikhil&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PisiniNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PisiniNikhil&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 
 ## 🤝 Let's Connect & Collaborate
