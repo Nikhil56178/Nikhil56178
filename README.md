@@ -5,7 +5,7 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pisini+Nikhil+👋;Data+Analyst+%7C+AI+Enthusiast;Building+Smarter+Solutions+🚀;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pisini+Nikhil+%F0%9F%91%8B;Data+Analyst+%7C+AI+Enthusiast;Building+Smarter+Solutions+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -76,6 +76,34 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 
 ---
 
+<!-- SECTION E: GITHUB STATS -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PisiniNikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisiniNikhil&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PisiniNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- SECTION F: GITHUB TROPHIES -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PisiniNikhil&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
 <!-- SECTION H: FOOTER -->
 
 ## 🤝 Let's Connect & Collaborate
@@ -95,7 +123,7 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%7C+Let's+build+something+great+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+opportunities+%7C+Let's+build+something+great+together!" alt="Footer Typing SVG" />
 </div>
 
 <div align="center">
