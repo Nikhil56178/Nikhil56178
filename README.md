@@ -58,6 +58,14 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 ![LLM](https://img.shields.io/badge/LLMs%20%26%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4A90D9?style=for-the-badge&logo=databricks&logoColor=white)
 
+### 🧰 Tools & Skills
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 ---
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
@@ -75,7 +83,6 @@ Hey! I'm **Pisini Nikhil** — a **fresher** with a passion for turning raw data
 </p>
 
 ---
-<!-- SECTION H: FOOTER -->
 
 ## 🤝 Let's Connect & Collaborate
 
